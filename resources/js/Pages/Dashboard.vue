@@ -24,7 +24,7 @@ import { Head } from "@inertiajs/vue3";
                                 })
                             }}
                         </p>
-                        <pre> {{ $page.props.translations }}</pre>
+                        <!-- <pre> {{ $page.props.translations }}</pre> -->
                     </div>
                 </div>
             </div>
